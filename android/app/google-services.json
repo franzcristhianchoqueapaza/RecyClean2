@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "112488522562",
+    "firebase_url": "https://recyclean02.firebaseio.com",
+    "project_id": "recyclean02",
+    "storage_bucket": "recyclean02.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:112488522562:android:7f4648516ef3e2acfe9edb",
+        "android_client_info": {
+          "package_name": "com.example.recyclean_02"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "112488522562-iujsruv3bgngclf31pivrjjtb95bvr26.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDa1DLo2sCObLrOlHoeEXCafcAOkBkEi9g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "112488522562-iujsruv3bgngclf31pivrjjtb95bvr26.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
